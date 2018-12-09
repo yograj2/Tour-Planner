@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "386979612083",
+    "firebase_url": "https://tour-ed9da.firebaseio.com",
+    "project_id": "tour-ed9da",
+    "storage_bucket": "tour-ed9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386979612083:android:82ffc071d81299cc",
+        "android_client_info": {
+          "package_name": "com.example.sith3.tourplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386979612083-s46f98bj59o9ue839igbj5jikupn9pbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrAualo0d__ofHF7SKqFK8Mzv6-Kyqb6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
